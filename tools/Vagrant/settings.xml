@@ -52,12 +52,12 @@
 	<server>
 		<id>apigee-cs-libs-release</id>
 		<username>onlineman477@gmail.com</username> <!-- Replace with credentials to access Apigee Artifactory. Check with Apigee Principal Architect -->
-		<password>Qwerty6&</password>  <!-- Replace with credentials to access Apigee Artifactory. Check with Apigee Principal Architect -->
+		<password>Qwerty@67</password>  <!-- Replace with credentials to access Apigee Artifactory. Check with Apigee Principal Architect -->
 	</server>
 	<server>
 		<id>apigee-cs-plugins-release</id>
 		<username>onlineman477@gmail.com</username> <!-- Same credentials as above. apigee-cs-libs-release -->
-		<password>Qwerty6&</password>  
+		<password>Qwerty@67</password>  
 
 
 	</server>
