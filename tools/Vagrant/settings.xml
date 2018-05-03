@@ -43,8 +43,8 @@
     <profile>
       	<id>testmyapi-test</id><!-- Replace profile in child pom.xml e.g. testmyapi.xml check apiproxies/weather-api/pom.xml -->
 	    <properties>
-	      <username>dummy@emailaddress.com</username> <!-- Apigee Gateway Credentials to deploy API Bundle-->
-	      <password>PASSWORD_HERE</password> <!-- Replace password -->
+	      <username>onlineman477@gmail.com</username> <!-- Apigee Gateway Credentials to deploy API Bundle-->
+	      <password>Qwerty@67</password> <!-- Replace password -->
 	    </properties>       
     </profile>
 </profiles>
