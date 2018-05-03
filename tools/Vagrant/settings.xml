@@ -51,13 +51,13 @@
 <servers>
 	<server>
 		<id>apigee-cs-libs-release</id>
-		<username>client</username> <!-- Replace with credentials to access Apigee Artifactory. Check with Apigee Principal Architect -->
-		<password>PASSWORD_HERE</password>  <!-- Replace with credentials to access Apigee Artifactory. Check with Apigee Principal Architect -->
+		<username>onlineman477@gmail.com</username> <!-- Replace with credentials to access Apigee Artifactory. Check with Apigee Principal Architect -->
+		<password>Qwerty6&</password>  <!-- Replace with credentials to access Apigee Artifactory. Check with Apigee Principal Architect -->
 	</server>
 	<server>
 		<id>apigee-cs-plugins-release</id>
-		<username>client</username> <!-- Same credentials as above. apigee-cs-libs-release -->
-		<password>PASSWORD_HERE</password>  
+		<username>onlineman477@gmail.com</username> <!-- Same credentials as above. apigee-cs-libs-release -->
+		<password>Qwerty6&</password>  
 
 
 	</server>
